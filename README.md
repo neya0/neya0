@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JISUNG%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=neya's%20Github!&fontSize=90" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -50,10 +50,10 @@
 </div>
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neya0&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=neya0&show_icons=true">
 
-![Jisung's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=neya0)
+![neya's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=neya0)
 
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>

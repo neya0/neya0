@@ -55,8 +55,8 @@
 
 ![neya's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=neya0)
 
-<br>
+<!-- <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wltjd1484)](https://solved.ac/wltjd1484)
-</div>
+</div> -->
